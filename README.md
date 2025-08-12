@@ -1,27 +1,35 @@
-# 🩺 AI-Powered Pulmonary Fibrosis Detection using ViT
+<div align="center">
+  👋 <b>Welcome!</b> 
+  <br>
+  This is the official repository for the <b>FibroViT</b> project.
+</div>
 
 <p align="center">
-  <a href="https://fibrovit.streamlit.app/" target="_blank">
-    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App">
-  </a>
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/stargazers" target="_blank">
-    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=for-the-badge&color=ffd05b&labelColor=1a2130&label=Star%20This%20Project">
-  </a>
-  <a href="https://github.com/waseemkathia/FibroVit/LICENSE" target="_blank">
-    <img alt="License" src="https://img.shields.io/https://github.com/waseemkathia/FibroVit/LICENSE?style=for-the-badge&color=blue&labelColor=1a2130">
-  </a>
-</p>
-
-<p align="center">
-  This repository contains the complete project for the research paper <b><a href="https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1282200/full">"Pulmonary Fibrosis Diagnosis using a Vision Transformer"</a></b>. It includes the model training process, the final pretrained model, and an interactive web application for live inference.
-</p>
-
-<p align="center">
-  <a href="YOUR_STREAMLIT_APP_LINK" target="_blank">
+  <a href="YOUR_STREAMLIT_APP_LINK_HERE" target="_blank">
     <img src="https://i.imgur.com/your-app-demo.gif" alt="App Demo GIF" width="85%">
   </a>
 </p>
 
+# 🩺 AI-Powered Pulmonary Fibrosis Detection using ViT
+
+<p align="center">
+<a href="https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1282200/full" target="_blank">
+    <img src="https://img.shields.io/badge/Read_The_Paper-00A1DE?style=for-the-badge&logo=read-the-docs&logoColor=white"
+         alt="Read The Paper" />
+</a>
+<a href="YOUR_STREAMLIT_APP_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"
+         alt="Launch Streamlit App" />
+</a>
+<a href="YOUR_GITHUB_REPO_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white"
+         alt="GitHub Repo" />
+</a>
+</p>
+
+---
+
+This repository contains the complete project for our research paper: **"FibroVit—Vision transformer-based framework for detection and classification of pulmonary fibrosis from chest CT images"**. It includes the model training process, the final pretrained model, and an interactive web application for live inference.
 ---
 
 ## 📂 Repository Contents
