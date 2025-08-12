@@ -1,7 +1,7 @@
 # 🩺 AI-Powered Pulmonary Fibrosis Detection using ViT
 
 <p align="center">
-  <a href="https://YOUR_STREAMLIT_APP_LINK" target="_blank">
+  <a href="https://fibrovit.streamlit.app/" target="_blank">
     <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App">
   </a>
   <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/stargazers" target="_blank">
