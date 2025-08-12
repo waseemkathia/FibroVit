@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual Environments
+# If your virtual environment folder is named 'venv', 'env', etc.
+venv/
+.venv/
+env/
+.env/
+venv.bak/
+
+# Sensitive Information - NEVER commit secrets
+# A file for storing environment variables like API keys
+.env
+
+# Datasets
+# Add the name of the folder where you store your training/test data
+# This prevents uploading gigabytes of data to GitHub
+My_Dataset/
+data/
+*.csv
+*.zip
+
+# Model Files
+# If your models are larger than 100MB, you should ignore them
+# and use Git LFS (Large File Storage) or another hosting service instead.
+# For now, you might want to track your model, but if it gets too big, add it here.
+# FibroViT Pretrained Model/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor specific files
+.vscode/
+.idea/
+
+# Build artifacts
+dist/
+build/
+*.egg

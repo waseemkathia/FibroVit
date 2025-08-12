@@ -1,0 +1,125 @@
+# 🩺 AI-Powered Pulmonary Fibrosis Detection using ViT
+
+<p align="center">
+  <a href="https://YOUR_STREAMLIT_APP_LINK" target="_blank">
+    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App">
+  </a>
+  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/stargazers" target="_blank">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=for-the-badge&color=ffd05b&labelColor=1a2130&label=Star%20This%20Project">
+  </a>
+  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/LICENSE" target="_blank">
+    <img alt="License" src="https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPO?style=for-the-badge&color=blue&labelColor=1a2130">
+  </a>
+</p>
+
+<p align="center">
+  This repository contains the complete project for the research paper <b><a href="https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1282200/full">"Pulmonary Fibrosis Diagnosis using a Vision Transformer"</a></b>. It includes the model training process, the final pretrained model, and an interactive web application for live inference.
+</p>
+
+<p align="center">
+  <a href="YOUR_STREAMLIT_APP_LINK" target="_blank">
+    <img src="https://i.imgur.com/your-app-demo.gif" alt="App Demo GIF" width="85%">
+  </a>
+</p>
+
+---
+
+## 📂 Repository Contents
+
+This project is organized to provide full transparency and reproducibility of the research.
+
+| File / Folder | Description |
+| :--- | :--- |
+| 📄 **`app.py`** | The main Python script for the interactive Streamlit web application. |
+| 📓 **`FibroViT Model Training.ipynb`** | A detailed Jupyter Notebook covering the entire process of data preprocessing, model training, and evaluation. |
+| 📁 **`FibroViT Pretrained Model/`** | Contains the final, trained Vision Transformer model files, ready for inference. |
+| 📄 **`requirements.txt`** | A list of all Python libraries required to run the project. |
+| 📄 **`LICENSE`** | The open-source license for this project. |
+| 📄 **`README.md`** | You are here! |
+
+---
+
+## 🛠️ Technology Stack
+
+The project is built using modern tools for deep learning and data science.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+</p>
+
+---
+
+## 🚀 How to Run the App Locally
+
+Follow these steps to get the Streamlit application running on your own machine.
+
+### 1. Prerequisites
+-   [Git](https://git-scm.com/downloads) and [Git LFS](https://git-lfs.github.com/) must be installed.
+-   [Python 3.8+](https://www.python.org/downloads/) is required.
+
+### 2. Setup and Installation
+
+```bash
+# Clone this repository to your local machine
+git clone [https://github.com/YOUR_USERNAME/YOUR_REPO.git](https://github.com/YOUR_USERNAME/YOUR_REPO.git)
+cd YOUR_REPO_FOLDER_NAME
+
+# Set up a Python virtual environment (highly recommended)
+python -m venv venv
+source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+
+# Install all the required Python packages
+pip install -r requirements.txt
+```
+
+### 3. Launch the App
+
+With the dependencies installed, you can now run the Streamlit app with a single command:
+
+```bash
+streamlit run app.py
+```
+Your web browser should automatically open to the application, ready for use!
+
+---
+
+## 📜 Citation
+
+If you use this code or our model in your work, we kindly ask that you cite the original research paper. It helps validate and support our contribution to the scientific community.
+
+```bibtex
+@article{sabir2023fibrovit,
+  author={Sabir, Muhammad Waseem and Farhan, Muhammad and Almalki, Nabil Sharaf and Alnfiai, Mrim M. and Sampedro, Gabriel Avelino},
+  title={FibroVit—Vision transformer-based framework for detection and classification of pulmonary fibrosis from chest CT images},
+  journal={Frontiers in Medicine},
+  volume={10},
+  year={2023},
+  url={https://www.frontiersin.org/articles/10.3389/fmed.2023.1282200},
+  doi={10.3389/fmed.2023.1282200},
+  issn={2296-858X}
+}
+```
+
+---
+
+## 👨‍💻 Connect with Me
+
+I am passionate about leveraging AI to solve real-world problems in healthcare, climate change and other emerging challenges. Please feel free to connect, ask questions, or discuss potential collaborations.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/waseemkathia/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;
+  <a href="https://github.com/waseemkathia" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  &nbsp;
+  <a href="https://waseemkathia.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4A90E2?style=for-the-badge&logo=blogger&logoColor=white" alt="Website">
+  </a>
+</p>
