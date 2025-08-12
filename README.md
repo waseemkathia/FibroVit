@@ -1,14 +1,8 @@
 # 🩺 AI-Powered Pulmonary Fibrosis Detection using ViT
 
 <p align="center">
-  <a href="https://YOUR_STREAMLIT_APP_LINK" target="_blank">
-    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App">
-  </a>
-  <a href="https://github.com/waseemkathia/FibroVit" target="_blank">
-    <img alt="GitHub Stars" src="https://img.shields.io/https://github.com/waseemkathia/FibroVit?style=for-the-badge&color=ffd05b&labelColor=1a2130&label=Star%20This%20Project">
-  </a>
-  <a href="https://github.com/waseemkathia/FibroVit/LICENSE" target="_blank">
-    <img alt="License" src="https://img.shields.io/https://github.com/waseemkathia/FibroVit/LICENSE?style=for-the-badge&color=blue&labelColor=1a2130">
+  <a href="YOUR_STREAMLIT_APP_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Launch_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Launch Streamlit App">
   </a>
 </p>
 
@@ -17,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_STREAMLIT_APP_LINK" target="_blank">
+  <a href="YOUR_STREAMLIT_APP_LINK_HERE" target="_blank">
     <img src="https://i.imgur.com/your-app-demo.gif" alt="App Demo GIF" width="85%">
   </a>
 </p>
@@ -65,12 +59,12 @@ Follow these steps to get the Streamlit application running on your own machine.
 
 ```bash
 # Clone this repository to your local machine
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO.git](https://github.com/YOUR_USERNAME/YOUR_REPO.git)
-cd YOUR_REPO_FOLDER_NAME
+git clone [https://github.com/waseemkathia/FibroVit.git](https://github.com/waseemkathia/FibroVit.git)
+cd FibroVit
 
 # Set up a Python virtual environment (highly recommended)
 python -m venv venv
-source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install all the required Python packages
 pip install -r requirements.txt
@@ -98,7 +92,7 @@ If you use this code or our model in your work, we kindly ask that you cite the 
   journal={Frontiers in Medicine},
   volume={10},
   year={2023},
-  url={https://www.frontiersin.org/articles/10.3389/fmed.2023.1282200},
+  url={[https://www.frontiersin.org/articles/10.3389/fmed.2023.1282200](https://www.frontiersin.org/articles/10.3389/fmed.2023.1282200)},
   doi={10.3389/fmed.2023.1282200},
   issn={2296-858X}
 }
@@ -108,7 +102,7 @@ If you use this code or our model in your work, we kindly ask that you cite the 
 
 ## 👨‍💻 Connect with Me
 
-I am passionate about leveraging AI to solve real-world problems in healthcare, climate change and other emerging challenges. Please feel free to connect, ask questions, or discuss potential collaborations.
+I am passionate about leveraging AI to solve real-world problems in healthcare. Please feel free to connect, ask questions, or discuss potential collaborations.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/waseemkathia/" target="_blank">
