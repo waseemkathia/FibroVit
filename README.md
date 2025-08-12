@@ -4,7 +4,7 @@
   <a href="https://YOUR_STREAMLIT_APP_LINK" target="_blank">
     <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Streamlit App">
   </a>
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/stargazers" target="_blank">
+  <a href="https://github.com/waseemkathia/FibroVit" target="_blank">
     <img alt="GitHub Stars" src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=for-the-badge&color=ffd05b&labelColor=1a2130&label=Star%20This%20Project">
   </a>
   <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/LICENSE" target="_blank">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  This repository contains the complete project for the research paper <b><a href="https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1282200/full">"Pulmonary Fibrosis Diagnosis using a Vision Transformer"</a></b>. It includes the model training process, the final pretrained model, and an interactive web application for live inference.
+  This repository contains the complete project for the research paper <b><a href="https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1282200/full">"FibroVit—Vision transformer-based framework for detection and classification of pulmonary fibrosis from chest CT images"</a></b>. It includes the model training process, the final pretrained model, and an interactive web application for live inference.
 </p>
 
 <p align="center">
