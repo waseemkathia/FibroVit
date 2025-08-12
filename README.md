@@ -112,6 +112,7 @@ If you use this code or our model in your work, we kindly ask that you cite the 
 ```
 ## License
 This project is licensed under MIT. See the <a href="LICENSE">LICENSE</a> file for details.
+
 ---
 
 ## 👨‍💻 Connect with Me
