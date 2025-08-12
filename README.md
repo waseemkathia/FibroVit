@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/🚀_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"
          alt="Launch Streamlit App" />
 </a>
-<a href="YOUR_GITHUB_REPO_LINK_HERE" target="_blank">
+<a href="https://github.com/waseemkathia/FibroVit" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white"
          alt="GitHub Repo" />
 </a>
