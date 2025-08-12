@@ -7,7 +7,7 @@
   <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/stargazers" target="_blank">
     <img alt="GitHub Stars" src="https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO?style=for-the-badge&color=ffd05b&labelColor=1a2130&label=Star%20This%20Project">
   </a>
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/LICENSE" target="_blank">
+  <a href="https://github.com/waseemkathia/FibroVit/LICENSE" target="_blank">
     <img alt="License" src="https://img.shields.io/github/license/YOUR_USERNAME/YOUR_REPO?style=for-the-badge&color=blue&labelColor=1a2130">
   </a>
 </p>
