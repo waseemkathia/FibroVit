@@ -1,14 +1,8 @@
-# 🩺 AI-Powered Pulmonary Fibrosis Detection using ViT
-
-<p align="center">
-  <a href="YOUR_STREAMLIT_APP_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_Launch_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Launch Streamlit App">
-  </a>
-</p>
-
-<p align="center">
-  This repository contains the complete project for the research paper <b><a href="https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1282200/full">"FibroVit—Vision transformer-based framework for detection and classification of pulmonary fibrosis from chest CT images"</a></b>. It includes the model training process, the final pretrained model, and an interactive web application for live inference.
-</p>
+<div align="center">
+  👋 <b>Welcome!</b> 
+  <br>
+  This is the official repository for the <b>FibroViT</b> project.
+</div>
 
 <p align="center">
   <a href="YOUR_STREAMLIT_APP_LINK_HERE" target="_blank">
@@ -16,7 +10,26 @@
   </a>
 </p>
 
+# 🩺 AI-Powered Pulmonary Fibrosis Detection using ViT
+
+<p align="center">
+<a href="https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1282200/full" target="_blank">
+    <img src="https://img.shields.io/badge/Read_The_Paper-00A1DE?style=for-the-badge&logo=read-the-docs&logoColor=white"
+         alt="Read The Paper" />
+</a>
+<a href="YOUR_STREAMLIT_APP_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"
+         alt="Launch Streamlit App" />
+</a>
+<a href="YOUR_GITHUB_REPO_LINK_HERE" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white"
+         alt="GitHub Repo" />
+</a>
+</p>
+
 ---
+
+This repository contains the complete project for our research paper: **"FibroVit—Vision transformer-based framework for detection and classification of pulmonary fibrosis from chest CT images"**. It includes the model training process, the final pretrained model, and an interactive web application for live inference.
 
 ## 📂 Repository Contents
 
