@@ -28,7 +28,7 @@
 </p>
 ---
 
-### This repository contains the complete project for our research paper: [**"FibroVit—Vision transformer-based framework for detection and classification of pulmonary fibrosis from chest CT images"**](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1282200/full). It includes the model training process, the final pretrained model, and an interactive web application for live inference.
+##### This repository contains the complete project for our research paper: [**"FibroVit—Vision transformer-based framework for detection and classification of pulmonary fibrosis from chest CT images"**](https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2023.1282200/full). It includes the model training process, the final pretrained model, and an interactive web application for live inference.
 
 ## 📂 Repository Contents
 
