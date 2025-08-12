@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Read_The_Paper-00A1DE?style=for-the-badge&logo=read-the-docs&logoColor=white"
          alt="Read The Paper" />
 </a>
-<a href="YOUR_STREAMLIT_APP_LINK_HERE" target="_blank">
+<a href="https://fibrovit.streamlit.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"
          alt="Launch Streamlit App" />
 </a>
